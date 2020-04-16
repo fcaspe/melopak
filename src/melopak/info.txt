@@ -1,0 +1,3 @@
+wav parser:
+
+https://github.com/adamstark/AudioFile
